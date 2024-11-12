@@ -56,4 +56,4 @@ Through this project, I gained significant experience in:
 
 Credits
 
-Special thanks to Greatstack for their helpful tutorial on building a full-stack E-commerce website.
+Special thanks to [Greatstack](https://www.youtube.com/@GreatStackDev) for their helpful tutorial on building a full-stack E-commerce website.
