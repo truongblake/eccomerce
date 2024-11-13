@@ -65,7 +65,7 @@
     height: 58px;
     outline:none;
     border: none;
-    background: #ff5a5a;
+    background: #5ab5ff;
     color:#fff;
     font-size: 16px;
     font-weight: 600;
@@ -106,7 +106,7 @@
     background: black;
     color: white;
     cursor: pointer;
-    
+    margin-left: -16px;
 }
 
 @media(max-width:1280px){
@@ -147,7 +147,7 @@
     }
     .cartitems-promobox button{
         width: 120px;
-        margin-left: -125px;
+        margin-left: -120px;
     }
 }
 
