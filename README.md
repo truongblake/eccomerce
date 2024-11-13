@@ -1,5 +1,8 @@
-# E-commerce
 
+
+
+# E-commerce
+![Animation7](https://github.com/user-attachments/assets/36fdcd7d-e3f1-49b9-90d2-65cd947b5a64)
 A full-stack **E-commerce application** built using the **MERN stack** (MongoDB, Express, React, Node.js) to learn and practice full-stack development. This project, created in **October 2024**, allowed me to gain hands-on experience with front-end and back-end integration, database management, and web application architecture.
 
 ## Project Timeline
@@ -13,6 +16,7 @@ Developed in **October 2024**, this project focused on learning how to:
 - **Responsive Design**: Learned how to format and organize CSS to build a more responsive and mobile-friendly user interface.
 
 ## Features
+![Animation6](https://github.com/user-attachments/assets/099a2020-042c-416b-a14d-567d3f43a0b4)
 - **Product Listings**: Displayed product details dynamically fetched from the backend.
 - **User Authentication with JWT**: Implemented secure user login and registration with **JSON Web Tokens** (JWT) for session management.
 - **Shopping Cart**: Users can add products to their cart and proceed to checkout.
